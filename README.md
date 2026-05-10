@@ -28,5 +28,5 @@ The SQL queries in this project cover:
 ## Tools Used
 - SQL Server / MySQL / PostgreSQL (any SQL database can be used)
 
-- Tableau / Power BI (optional for visualization)
+- Tableau / Power BI (for visualization)
 
